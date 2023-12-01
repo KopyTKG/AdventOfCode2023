@@ -1,2 +1,5 @@
+import D1S1 from './Day1/star1/main'
+import D1S2 from './Day1/star2/main'
 
-console.log('Hello from server.ts');
+D1S1()
+D1S2()
